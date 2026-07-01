@@ -1,0 +1,27 @@
+# Node
+node_modules/
+.next/
+.env
+.env.local
+.clip_training.ipynb
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+
+# OS
+.DS_Store
+Thumbs.db
+vscode/
+
+
+# Prevent large video files from being committed
+*.mp4
+*.mov
+*.avi
+crime_scene_detection_frontend/public/uploads/
+
+

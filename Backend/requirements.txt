@@ -1,0 +1,9 @@
+flask
+flask-cors
+nbformat
+nbconvert
+transformers
+sentence-transformers
+torch
+opencv-python
+Pillow
